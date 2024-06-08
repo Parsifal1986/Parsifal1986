@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Parsifal1986</h1>
 
-<!--
-**Parsifal1986/Parsifal1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsifal1986)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parsifal1986)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎧 Spotify Playing
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313iepq2fuqzbbtb2jpnwtzdicbu)
+
+<!-- | :pencil2: | :video_game: | :book: |:clapper:  |
+| --- | --- | --- | --- |
+| [Blogs](https://parsifal1986.github.io/) |[Games](https://parsifal1986.github.io/games/)  | [Books](https://parsifal1986.github.io/books/) | [Movies](https://parsifal1986.github.io/movies/) | -->
